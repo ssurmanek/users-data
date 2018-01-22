@@ -34,4 +34,4 @@ users:
         emails:
             jane.doe@mail.com:
                 primary: true
-                type: work
+                type: home
