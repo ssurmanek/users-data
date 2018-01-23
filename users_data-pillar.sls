@@ -26,7 +26,7 @@ users:
                 primary: false
                 type: other
     janedoe:
-        existence: present
+        existence: absent
         id: fbdcd5ba-fd00-11e7-9db1-fa163ec08874
         givenName: Jane
         familyName: Doe
